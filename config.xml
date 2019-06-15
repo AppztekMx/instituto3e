@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<widget id="appztek.apps.instituto3e" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0">
+    <name>Instituto 3E</name>
+    <description>
+        Plataforma de aprendisaje - Instituto 3E
+    </description>
+    <author email="contacto@appztek.mx" href="https://appztek.mx">
+        Equipo Appztek
+    </author>
+    <content src="index.html" />
+    <access origin="*" />
+</widget>
+<platform name="android">
+	<icon src="www/res/icon/android/drawable-ldpi-icon.png" density="ldpi"/>
+	<icon src="www/res/icon/android/drawable-mdpi-icon.png" density="mdpi"/>
+	<icon src="www/res/icon/android/drawable-hdpi-icon.png" density="hdpi"/>
+	<icon src="www/res/icon/android/drawable-xhdpi-icon.png" density="xhdpi"/>
+	<icon src="www/res/icon/android/drawable-xxhdpi-icon.png" density="xxhdpi"/>
+	<icon src="www/res/icon/android/drawable-xxxhdpi-icon.png" density="xxxhdpi"/>
+</platform>
